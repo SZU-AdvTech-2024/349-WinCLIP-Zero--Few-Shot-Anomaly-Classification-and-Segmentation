@@ -1,0 +1,8 @@
+@inproceedings{REPO349,
+    author = "Jeong, Jongheon and Zou, Yang and Kim, Taewan and Zhang, Dongqing and Ravichandran, Avinash and Dabeer, Onkar",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "19606-19616",
+    title = "{WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation}",
+    year = "2023"
+}
